@@ -1,0 +1,19 @@
+*{
+
+}
+
+
+div{
+        margin: ;
+        padding: ;
+        background-color: white;
+    }
+    body{
+        background-color: pink;
+      }
+      {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    width:100px; /* some width */
+}
